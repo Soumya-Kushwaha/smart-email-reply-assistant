@@ -45,7 +45,7 @@ The project consists of three main components:
 ## Installation
 
 ### Prerequisites
-- Java 11+ for Spring Boot
+- Java 17 for Spring Boot
 - Node.js and npm for React
 - Google Chrome browser
 - Gemini API key
